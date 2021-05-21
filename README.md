@@ -1,2 +1,2 @@
 # game-business
-One Page de una empresa indie dedicada al desarollo de videojuegos.
+Website tipo One Page diseñada para una empresa indie de videojuegos.
